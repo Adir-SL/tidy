@@ -15,6 +15,16 @@ body{
     overflow: auto;
     overflow-x: hidden;
 }
+.stateDiv{
+    background-color: #F3F3F1;
+    color: #212121;
+    text-align: center;
+    padding: 8px;
+    font-family: 'Inter', sans-serif;
+    top: 0;
+    position: sticky;
+    z-index: 999;
+}
 .m-15{
     margin: 0 15%;
 }
